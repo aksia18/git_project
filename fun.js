@@ -5,3 +5,6 @@ function comma(num) {
 let price = 123123123123;
 
 console.log(comma(price));
+
+
+지호가 수정함
