@@ -7,4 +7,4 @@ let price = 123123123123;
 console.log(comma(price));
 
 
-지호가 수정함
+지호가 수정함ddddddd 2번째 수정
